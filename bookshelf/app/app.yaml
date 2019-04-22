@@ -26,5 +26,5 @@ env_variables:
 #
 # This should match the value in config.go
 beta_settings:
-#  cloud_sql_instances: INSTANCE_CONNECTION_NAME
+ cloud_sql_instances: "5910545701 Assignment 14:us-central1:library"
 # [END cloudsql_settings]
